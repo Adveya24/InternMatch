@@ -1,0 +1,25 @@
+InternMatch Tech CV (simulate cv_tech.pdf)
+
+Name: Alex Sharma
+Role: Data Science Intern
+
+Summary:
+Motivated student with strong interest in data and analytics.
+
+Skills:
+- pyhton
+- machine learnng
+- SQL
+- powerbi
+- pandas
+- data viz
+
+Experience:
+2025 - Present: Data Analyst Intern at Campus Lab
+- Built dashboards in Power BI and Excel.
+- Cleaned datasets using Pandas and wrote SQL queries.
+
+Education:
+B.Tech in Computer Science, 2023-2027
+
+Note: This text file is a stand-in for a PDF CV in this demo environment.

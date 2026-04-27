@@ -1,0 +1,14 @@
+{
+    "site_package_search_strategy": "all",
+    "source_directories": [
+        {"root": "."}
+    ],
+    "search_path": [
+        "venv311/Lib/site-packages"
+    ],
+    "exclude": [
+        "venv311",
+        ".git",
+        "**/__pycache__"
+    ]
+}

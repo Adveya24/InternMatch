@@ -1,0 +1,26 @@
+InternMatch Mixed CV (simulate cv_mixed.pdf)
+
+Name: Jordan Lee
+Role: Journalism & Web Content Intern
+
+Summary:
+Student journalist with experience in writing, editing, and basic web dev.
+
+Skills:
+- copy writting
+- interviewing
+- research
+- HTML
+- CSS
+- js
+- social media campains
+
+Experience:
+2024 - Present: Campus Magazine Editor
+- Edited articles and coordinated interviews with guests.
+- Managed the online blog using basic HTML/CSS and JavaScript.
+
+Education:
+BA in Media and Communication, 2022-2026
+
+Note: This text file is a stand-in for a PDF CV in this demo environment.

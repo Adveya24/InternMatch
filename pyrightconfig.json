@@ -1,0 +1,10 @@
+{
+  "venvPath": ".",
+  "venv": "venv311",
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Windows",
+  "include": ["backend", "frontend"],
+  "exclude": ["**/node_modules", "**/__pycache__", ".git"],
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none"
+}

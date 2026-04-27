@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>InternMatch - AI Results</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <div class="glow glow-a"></div>
+    <div class="glow glow-b"></div>
+    <div class="grid-lines"></div>
+    <div class="app-container">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Ranked internship results</p>
+          <h1>Results</h1>
+          <p class="subtitle">AI-ranked matches, skill-gap explanations, and learning links in one view.</p>
+        </div>
+        <a href="/" class="link-back">Back to upload</a>
+      </header>
+
+      <main class="results-layout">
+        <section class="banner" id="mode-banner" hidden>
+          Cloud Cognitive Engine unavailable, showing un-ranked matches.
+        </section>
+
+        <aside class="results-sidebar">
+          <section class="card summary-card">
+            <p class="mini-label">Run summary</p>
+            <p id="summary"></p>
+            <p id="ai-source-label"></p>
+          </section>
+          <section class="card profile-card">
+            <p class="mini-label">AI Profile Read</p>
+            <div id="profile-panel">Profile summary will appear here.</div>
+          </section>
+          <section class="card cv-rating-card" id="cv-rating-card">
+            <p class="mini-label">CV Quality Score</p>
+            <div id="cv-rating-panel" class="cv-rating-panel">
+              <div class="cv-ring" id="cv-ring"><span id="cv-score">—</span></div>
+              <p id="cv-rating-label" class="cv-rating-label">Analyzing…</p>
+            </div>
+          </section>
+          <section class="card spotlight-card" id="best-match-card">
+            <p class="mini-label">Best match</p>
+            <div id="best-match-panel">Top result will appear here.</div>
+          </section>
+        </aside>
+
+        <section class="card results-card">
+          <div class="section-head compact">
+            <span class="step-tag">Top 6</span>
+            <h2>AI-reviewed internship matches</h2>
+          </div>
+          <div id="matches"></div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <script src="/static/js/main.js"></script>
+</body>
+</html>

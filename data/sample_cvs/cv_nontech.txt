@@ -1,0 +1,24 @@
+InternMatch Non-Tech CV (simulate cv_nontech.docx)
+
+Name: Priya Nair
+Role: Teaching / Education Intern
+
+Summary:
+Enthusiastic education student passionate about helping children learn.
+
+Skills:
+- classroom managment
+- lesson planing
+- communication
+- child engagement
+- basic computer skills
+
+Experience:
+2024 - Present: Teaching Assistant, Sunshine Public School
+- Assisted with lesson planning and grading assignments.
+- Supported classroom mangement for classes of 30+ students.
+
+Education:
+B.Ed in Education, 2022-2026
+
+Note: This text file is a stand-in for a DOCX CV in this demo environment.

@@ -1,0 +1,462 @@
+{
+  "Python": [
+    "https://www.coursera.org/learn/python",
+    "https://www.edx.org/learn/python"
+  ],
+  "R": [
+    "https://www.coursera.org/learn/r-programming",
+    "https://www.edx.org/learn/r-programming"
+  ],
+  "SQL": [
+    "https://www.sqlbolt.com/",
+    "https://www.kaggle.com/learn/intro-to-sql"
+  ],
+  "Pandas": [
+    "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html",
+    "https://www.kaggle.com/learn/pandas"
+  ],
+  "NumPy": [
+    "https://numpy.org/doc/stable/user/absolute_beginners.html",
+    "https://www.coursera.org/learn/data-processing-numpy"
+  ],
+  "Statistics": [
+    "https://www.khanacademy.org/math/statistics-probability",
+    "https://www.coursera.org/learn/statistics-for-data-science-python"
+  ],
+  "Machine Learning": [
+    "https://www.coursera.org/learn/machine-learning",
+    "https://www.kaggle.com/learn/intro-to-machine-learning"
+  ],
+  "Deep Learning": [
+    "https://www.deeplearning.ai/courses/deep-learning-specialization/",
+    "https://www.coursera.org/specializations/deep-learning"
+  ],
+  "TensorFlow": [
+    "https://www.tensorflow.org/tutorials",
+    "https://www.coursera.org/learn/introduction-tensorflow"
+  ],
+  "Data Visualization": [
+    "https://www.coursera.org/learn/data-visualization",
+    "https://www.kaggle.com/learn/data-visualization"
+  ],
+  "Tableau": [
+    "https://www.tableau.com/learn/training",
+    "https://www.coursera.org/learn/analytics-tableau"
+  ],
+  "Power BI": [
+    "https://learn.microsoft.com/power-bi/fundamentals/",
+    "https://www.edx.org/learn/power-bi"
+  ],
+  "Excel": [
+    "https://support.microsoft.com/excel",
+    "https://www.coursera.org/learn/excel-basics-data-analysis-ibm"
+  ],
+  "HTML": [
+    "https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/HTML_basics",
+    "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+  ],
+  "CSS": [
+    "https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/CSS_basics",
+    "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+  ],
+  "JavaScript": [
+    "https://developer.mozilla.org/docs/Learn/JavaScript",
+    "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+  ],
+  "TypeScript": [
+    "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "https://www.edx.org/learn/typescript"
+  ],
+  "React": [
+    "https://react.dev/learn",
+    "https://www.coursera.org/learn/react-basics"
+  ],
+  "Node.js": [
+    "https://nodejs.org/en/docs",
+    "https://www.coursera.org/learn/server-side-nodejs"
+  ],
+  "Express": [
+    "https://expressjs.com/en/starter/installing.html",
+    "https://www.coursera.org/learn/server-side-nodejs"
+  ],
+  "MongoDB": [
+    "https://www.mongodb.com/docs/manual/tutorial/",
+    "https://www.mongodb.com/developer/learn/academy/"
+  ],
+  "Django": [
+    "https://docs.djangoproject.com/en/stable/intro/tutorial01/",
+    "https://www.coursera.org/learn/django-web-framework"
+  ],
+  "REST APIs": [
+    "https://restfulapi.net/",
+    "https://www.coursera.org/learn/api-development"
+  ],
+  "Git": [
+    "https://git-scm.com/book/en/v2",
+    "https://www.coursera.org/learn/introduction-git-github"
+  ],
+  "Wireframing": [
+    "https://www.interaction-design.org/literature/topics/wireframing",
+    "https://www.coursera.org/learn/ux-design-fundamentals"
+  ],
+  "Prototyping": [
+    "https://www.interaction-design.org/literature/topics/prototyping",
+    "https://www.coursera.org/learn/ui-ux-design"
+  ],
+  "User Research": [
+    "https://www.coursera.org/learn/user-research",
+    "https://www.interaction-design.org/literature/topics/user-research"
+  ],
+  "Visual Design": [
+    "https://www.interaction-design.org/literature/topics/visual-design",
+    "https://www.coursera.org/learn/visual-elements-user-interface-design"
+  ],
+  "Interaction Design": [
+    "https://www.interaction-design.org/literature/topics/interaction-design",
+    "https://www.coursera.org/learn/interaction-design"
+  ],
+  "Figma": [
+    "https://www.figma.com/resources/learn-design/",
+    "https://www.coursera.org/projects/googlecloud-build-a-portfolio-website-using-figma-to-html-bwwne"
+  ],
+  "Sketch": [
+    "https://www.sketch.com/learn/",
+    "https://www.interaction-design.org/courses/ux-design-fundamentals"
+  ],
+  "Adobe XD": [
+    "https://helpx.adobe.com/xd/tutorials.html",
+    "https://www.coursera.org/learn/ui-ux-design"
+  ],
+  "Illustrator": [
+    "https://helpx.adobe.com/illustrator/tutorials.html",
+    "https://www.edx.org/learn/graphic-design"
+  ],
+  "Lesson Planning": [
+    "https://www.coursera.org/learn/lesson-planning",
+    "https://www.edx.org/learn/teaching"
+  ],
+  "Classroom Management": [
+    "https://www.coursera.org/learn/classroom-management",
+    "https://www.edx.org/learn/classroom-management"
+  ],
+  "Curriculum Design": [
+    "https://www.coursera.org/learn/curriculum-design",
+    "https://www.edx.org/learn/curriculum-development"
+  ],
+  "Student Assessment": [
+    "https://www.coursera.org/learn/educational-assessment",
+    "https://www.edx.org/learn/assessment"
+  ],
+  "Educational Technology": [
+    "https://www.coursera.org/learn/learning-technologies-foundations-applications",
+    "https://www.edx.org/learn/educational-technology"
+  ],
+  "Communication": [
+    "https://www.coursera.org/learn/communication-skills",
+    "https://www.edx.org/learn/communication"
+  ],
+  "Writing": [
+    "https://owl.purdue.edu/owl/general_writing/index.html",
+    "https://www.coursera.org/learn/writing-and-editing-word-choice-and-word-order"
+  ],
+  "Editing": [
+    "https://owl.purdue.edu/owl/general_writing/the_writing_process/proofreading_and_editing.html",
+    "https://www.coursera.org/learn/writing-editing-punctuation"
+  ],
+  "Copywriting": [
+    "https://www.coursera.org/learn/copywriting",
+    "https://www.edx.org/learn/copywriting"
+  ],
+  "Interviewing": [
+    "https://www.coursera.org/learn/interviewing-skills",
+    "https://www.edx.org/learn/communication"
+  ],
+  "Research": [
+    "https://www.coursera.org/learn/understanding-research",
+    "https://www.edx.org/learn/research-methods"
+  ],
+  "Fact-checking": [
+    "https://www.poynter.org/ifcn/",
+    "https://www.coursera.org/learn/data-journalism"
+  ],
+  "Market Research": [
+    "https://www.coursera.org/learn/market-research",
+    "https://www.edx.org/learn/market-research"
+  ],
+  "Content Writing": [
+    "https://www.coursera.org/learn/content-strategy",
+    "https://www.edx.org/learn/content-marketing"
+  ],
+  "Social Media": [
+    "https://www.coursera.org/learn/social-media-marketing",
+    "https://www.edx.org/learn/social-media-marketing"
+  ],
+  "SEO": [
+    "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+    "https://www.coursera.org/learn/seo-fundamentals"
+  ],
+  "Google Analytics": [
+    "https://analytics.google.com/analytics/academy/",
+    "https://www.coursera.org/learn/google-analytics-data-analysis"
+  ],
+  "Presentation Skills": [
+    "https://www.coursera.org/learn/public-speaking",
+    "https://www.edx.org/learn/public-speaking"
+  ],
+  "Accounting": [
+    "https://www.coursera.org/learn/wharton-accounting",
+    "https://www.edx.org/learn/accounting"
+  ],
+  "Financial Analysis": [
+    "https://www.investopedia.com/terms/f/financialanalysis.asp",
+    "https://www.coursera.org/learn/financial-analysis"
+  ],
+  "Excel Modeling": [
+    "https://www.coursera.org/learn/excel-modeling",
+    "https://www.edx.org/learn/excel"
+  ],
+  "QuickBooks": [
+    "https://quickbooks.intuit.com/learn-support/en-us/help-article/learn-quickbooks/L6XGcbX5J_US_en_US",
+    "https://www.coursera.org/learn/accounting-principles"
+  ],
+  "Tally": [
+    "https://tallysolutions.com/tally/training/",
+    "https://www.edx.org/learn/accounting"
+  ],
+  "SAP": [
+    "https://learning.sap.com/",
+    "https://www.coursera.org/learn/sap-technology-consultant"
+  ],
+  "Data Analysis": [
+    "https://www.kaggle.com/learn/data-analysis",
+    "https://www.coursera.org/learn/data-analysis-with-python"
+  ],
+  "Survey Design": [
+    "https://www.coursera.org/learn/questionnaire-design",
+    "https://www.edx.org/learn/survey-design"
+  ],
+  "Field Surveys": [
+    "https://www.un.org/development/desa/dspd/programme-development/monitoring-and-evaluation.html",
+    "https://www.coursera.org/learn/questionnaire-design"
+  ],
+  "Health Promotion": [
+    "https://www.coursera.org/learn/health-promotion",
+    "https://www.edx.org/learn/public-health"
+  ],
+  "Surveillance": [
+    "https://www.cdc.gov/csels/dsepd/ss1978/index.html",
+    "https://www.coursera.org/learn/epidemiology"
+  ],
+  "Community Outreach": [
+    "https://www.coursera.org/learn/community-engagement",
+    "https://www.edx.org/learn/social-work"
+  ],
+  "Fundraising": [
+    "https://www.coursera.org/learn/fundraising-for-nonprofits",
+    "https://www.edx.org/learn/nonprofit-management"
+  ],
+  "Monitoring & Evaluation": [
+    "https://www.coursera.org/learn/monitoring-evaluation",
+    "https://www.edx.org/learn/project-management"
+  ],
+  "Case Management": [
+    "https://socialworklicensemap.com/social-work-resources/case-management/",
+    "https://www.coursera.org/learn/social-work"
+  ],
+  "Grant Writing": [
+    "https://www.coursera.org/learn/grant-proposal",
+    "https://www.edx.org/learn/grant-writing"
+  ],
+  "Food Prep": [
+    "https://www.servsafe.com/ServSafe/Resources",
+    "https://www.coursera.org/learn/food-safety-management"
+  ],
+  "Kitchen Safety": [
+    "https://www.servsafe.com/ServSafe/Resources",
+    "https://www.edx.org/learn/food-safety"
+  ],
+  "Plating": [
+    "https://www.greatbritishchefs.com/how-to-cook/guide/plating-food",
+    "https://www.coursera.org/learn/introduction-food-beverage-management"
+  ],
+  "Recipe Development": [
+    "https://www.escoffier.edu/blog/world-food-drink/recipe-development-basics/",
+    "https://www.coursera.org/learn/introduction-food-beverage-management"
+  ],
+  "C": [
+    "https://en.cppreference.com/w/c",
+    "https://www.coursera.org/learn/c-for-everyone"
+  ],
+  "C++": [
+    "https://www.learncpp.com/",
+    "https://www.coursera.org/specializations/coding-for-everyone"
+  ],
+  "Java": [
+    "https://dev.java/learn/",
+    "https://www.coursera.org/learn/java-programming"
+  ],
+  "C#": [
+    "https://learn.microsoft.com/dotnet/csharp/",
+    "https://www.coursera.org/learn/programming-in-c-sharp-basic"
+  ],
+  "Go": [
+    "https://go.dev/doc/tutorial/getting-started",
+    "https://www.coursera.org/learn/golang"
+  ],
+  "Rust": [
+    "https://doc.rust-lang.org/book/",
+    "https://www.edx.org/learn/rust-programming"
+  ],
+  "Ruby": [
+    "https://www.ruby-lang.org/en/documentation/quickstart/",
+    "https://www.edx.org/learn/ruby-on-rails"
+  ],
+  "PHP": [
+    "https://www.php.net/manual/en/tutorial.php",
+    "https://www.coursera.org/learn/web-applications-php"
+  ],
+  "PostgreSQL": [
+    "https://www.postgresql.org/docs/current/tutorial.html",
+    "https://www.coursera.org/learn/database-management"
+  ],
+  "MySQL": [
+    "https://dev.mysql.com/doc/mysql-getting-started/en/",
+    "https://www.coursera.org/learn/database-management"
+  ],
+  "SQLite": [
+    "https://www.sqlitetutorial.net/",
+    "https://www.kaggle.com/learn/intro-to-sql"
+  ],
+  "Redis": [
+    "https://redis.io/docs/latest/develop/get-started/",
+    "https://www.coursera.org/learn/database-management"
+  ],
+  "Docker": [
+    "https://docs.docker.com/get-started/",
+    "https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift"
+  ],
+  "Kubernetes": [
+    "https://kubernetes.io/docs/tutorials/",
+    "https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift"
+  ],
+  "AWS": [
+    "https://aws.amazon.com/getting-started/",
+    "https://www.coursera.org/learn/aws-cloud-technical-essentials"
+  ],
+  "Azure": [
+    "https://learn.microsoft.com/training/azure/",
+    "https://www.coursera.org/learn/preparing-for-the-az-900-microsoft-azure-fundamentals"
+  ],
+  "GCP": [
+    "https://cloud.google.com/training",
+    "https://www.coursera.org/learn/gcp-fundamentals"
+  ],
+  "Linux": [
+    "https://linuxjourney.com/",
+    "https://www.coursera.org/learn/linux-fundamentals"
+  ],
+  "Bash": [
+    "https://www.gnu.org/software/bash/manual/bash.html",
+    "https://www.coursera.org/learn/linux-fundamentals"
+  ],
+  "GitHub": [
+    "https://docs.github.com/en/get-started",
+    "https://www.coursera.org/learn/introduction-git-github"
+  ],
+  "GitLab": [
+    "https://docs.gitlab.com/ee/user/",
+    "https://www.coursera.org/learn/introduction-git-github"
+  ],
+  "CI/CD": [
+    "https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment",
+    "https://www.coursera.org/learn/devops-culture-and-mindset"
+  ],
+  "Unit Testing": [
+    "https://docs.pytest.org/en/stable/getting-started.html",
+    "https://www.coursera.org/learn/software-testing"
+  ],
+  "Agile": [
+    "https://www.atlassian.com/agile",
+    "https://www.coursera.org/learn/agile-development"
+  ],
+  "Scrum": [
+    "https://scrumguides.org/",
+    "https://www.coursera.org/learn/scrum-fundamentals-agile-scrum-framework"
+  ],
+  "Project Management": [
+    "https://www.coursera.org/learn/project-management-principles",
+    "https://www.edx.org/learn/project-management"
+  ],
+  "Data Structures": [
+    "https://www.geeksforgeeks.org/data-structures/",
+    "https://www.coursera.org/learn/data-structures"
+  ],
+  "Algorithms": [
+    "https://cp-algorithms.com/",
+    "https://www.coursera.org/learn/algorithms-part1"
+  ],
+  "Operating Systems": [
+    "https://www.os-book.com/OS9/OS9e-Overview.pdf",
+    "https://www.coursera.org/learn/os-power-user"
+  ],
+  "Computer Networks": [
+    "https://www.cloudflare.com/learning/network-layer/what-is-a-computer-network/",
+    "https://www.coursera.org/learn/computer-networking"
+  ],
+  "Cybersecurity": [
+    "https://www.coursera.org/learn/intro-cyber-security",
+    "https://www.edx.org/learn/cybersecurity"
+  ],
+  "Accessibility": [
+    "https://www.w3.org/WAI/fundamentals/accessibility-intro/",
+    "https://www.coursera.org/learn/assistive-technology"
+  ],
+  "GraphQL": [
+    "https://graphql.org/learn/",
+    "https://www.edx.org/learn/graphql"
+  ],
+  "API Design": [
+    "https://www.postman.com/api-platform/api-design/",
+    "https://www.coursera.org/learn/api-development"
+  ],
+  "ETL": [
+    "https://www.ibm.com/topics/etl",
+    "https://www.coursera.org/learn/data-warehouse-concepts-design-data-preparation"
+  ],
+  "Data Warehousing": [
+    "https://www.ibm.com/topics/data-warehouse",
+    "https://www.coursera.org/learn/data-warehouse-concepts-design-data-preparation"
+  ],
+  "Airflow": [
+    "https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html",
+    "https://www.coursera.org/learn/data-pipelines-airflow"
+  ],
+  "Spark": [
+    "https://spark.apache.org/docs/latest/quick-start.html",
+    "https://www.coursera.org/learn/big-data-essentials"
+  ],
+  "Hadoop": [
+    "https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/SingleCluster.html",
+    "https://www.coursera.org/learn/big-data-essentials"
+  ],
+  "UX Writing": [
+    "https://www.nngroup.com/articles/ux-writing/",
+    "https://www.coursera.org/learn/ux-design-fundamentals"
+  ],
+  "Accessibility Testing": [
+    "https://developer.mozilla.org/docs/Web/Accessibility/Testing",
+    "https://www.coursera.org/learn/assistive-technology"
+  ],
+  "PowerPoint": [
+    "https://support.microsoft.com/powerpoint",
+    "https://www.coursera.org/learn/presentation-skills"
+  ],
+  "Word": [
+    "https://support.microsoft.com/word",
+    "https://www.edx.org/learn/microsoft-word"
+  ],
+  "Time Management": [
+    "https://www.coursera.org/learn/work-smarter-not-harder",
+    "https://www.edx.org/learn/time-management"
+  ]
+}

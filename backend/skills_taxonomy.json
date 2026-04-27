@@ -1,0 +1,98 @@
+{
+  "Architecture / Civil": [
+    "AutoCAD", "Civil 3D", "Structural Analysis", "Surveying", "Construction Management",
+    "Blueprint Reading", "Revit", "Project Planning", "Site Inspection", "Quantity Estimation"
+  ],
+  "Arts / Media": [
+    "Content Creation", "Video Editing", "Storytelling", "Photography", "Adobe Premiere Pro",
+    "Illustrator", "Branding", "Social Media", "Visual Design", "Creative Writing"
+  ],
+  "Aviation / Aerospace": [
+    "Aerodynamics", "CAD", "MATLAB", "CFD", "Ansys Fluent",
+    "Flight Mechanics", "Propulsion", "Avionics", "Structural Analysis", "Python"
+  ],
+  "Biotech / Medical": [
+    "Biology", "Laboratory Techniques", "PCR", "Clinical Research", "Data Analysis",
+    "Documentation", "Medical Writing", "Biostatistics", "Quality Control", "Research"
+  ],
+  "Computer Science / AI": [
+    "Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch",
+    "Data Structures", "Algorithms", "SQL", "Computer Vision", "NLP"
+  ],
+  "Culinary / Food": [
+    "Food Prep", "Kitchen Safety", "Recipe Development", "Inventory Management", "Plating",
+    "Food Safety", "Time Management", "Teamwork", "Customer Service", "Sanitation"
+  ],
+  "Data Science / Analytics": [
+    "Python", "SQL", "Pandas", "NumPy", "Data Visualization",
+    "Power BI", "Tableau", "Statistics", "Excel", "Machine Learning"
+  ],
+  "Design / UX": [
+    "Figma", "Wireframing", "Prototyping", "User Research", "Interaction Design",
+    "Visual Design", "Design Systems", "Adobe XD", "Usability Testing", "CSS"
+  ],
+  "Education / Teaching": [
+    "Lesson Planning", "Classroom Management", "Communication", "Student Assessment", "Curriculum Design",
+    "Educational Technology", "Mentoring", "Presentation Skills", "Writing", "Child Engagement"
+  ],
+  "Fashion / Textile": [
+    "Fashion Illustration", "Textile Design", "Adobe Illustrator", "Trend Research", "Merchandising",
+    "Sewing", "Pattern Making", "Visual Design", "Communication", "Branding"
+  ],
+  "Finance / Accounting": [
+    "Accounting", "Financial Analysis", "Excel", "Financial Modeling", "Valuation",
+    "Corporate Finance", "Risk Management", "Bookkeeping", "SQL", "Data Analysis"
+  ],
+  "Hospitality / Tourism": [
+    "Customer Service", "Operations Management", "Event Coordination", "Communication", "Scheduling",
+    "Front Desk", "Guest Relations", "Teamwork", "Problem Solving", "Tour Planning"
+  ],
+  "Humanities / Journalism": [
+    "Writing", "Editing", "Research", "Interviewing", "Fact-checking",
+    "Copywriting", "Storytelling", "Social Media", "Communication", "Content Writing"
+  ],
+  "Law / Legal": [
+    "Legal Research", "Contract Review", "Documentation", "Compliance", "Writing",
+    "Case Analysis", "Attention to Detail", "Communication", "Policy Analysis", "Client Relations"
+  ],
+  "Logistics / Supply Chain": [
+    "Supply Chain", "Inventory Management", "Operations Management", "Logistics", "Excel",
+    "Data Analysis", "Vendor Management", "Process Improvement", "Forecasting", "ERP"
+  ],
+  "Manufacturing / Mechanical": [
+    "CAD", "SolidWorks", "Mechanical Design", "Manufacturing", "Thermodynamics",
+    "Ansys", "MATLAB", "Quality Control", "Process Improvement", "Product Design"
+  ],
+  "Marketing / Business": [
+    "Market Research", "Digital Marketing", "SEO", "Content Writing", "Social Media",
+    "Business Strategy", "Communication", "Presentation Skills", "Google Analytics", "CRM"
+  ],
+  "NGO / Social Work": [
+    "Community Outreach", "Fundraising", "Grant Writing", "Monitoring & Evaluation", "Case Management",
+    "Communication", "Report Writing", "Survey Design", "Health Promotion", "Project Management"
+  ],
+  "Public Health / Epidemiology": [
+    "Epidemiology", "Biostatistics", "Survey Design", "Data Analysis", "Health Promotion",
+    "Surveillance", "Research", "Community Outreach", "Reporting", "Public Health"
+  ],
+  "Research / Policy": [
+    "Research", "Policy Analysis", "Data Analysis", "Writing", "Literature Review",
+    "Survey Design", "Presentation Skills", "Statistics", "Stakeholder Management", "Report Writing"
+  ],
+  "Retail / Sales": [
+    "Sales", "Customer Service", "CRM", "Lead Generation", "Communication",
+    "Merchandising", "Negotiation", "Account Management", "Client Relations", "POS Systems"
+  ],
+  "Sports / Coaching": [
+    "Coaching", "Fitness Training", "Communication", "Lesson Planning", "Team Management",
+    "Performance Analysis", "Motivation", "Scheduling", "Leadership", "Injury Prevention"
+  ],
+  "Veterinary / Animal Care": [
+    "Animal Handling", "Veterinary Assistance", "Record Keeping", "Communication", "Laboratory Techniques",
+    "Caregiving", "Attention to Detail", "Observation", "Clinical Support", "Documentation"
+  ],
+  "Web Development": [
+    "HTML", "CSS", "JavaScript", "React", "Node.js",
+    "TypeScript", "Express", "MongoDB", "REST APIs", "Git"
+  ]
+}

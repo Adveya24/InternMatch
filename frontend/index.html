@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>InternMatch - AI Internship Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js" integrity="sha512-yhH2OUo/BPv4e+Y5H6x+TQp4bq7/IQPaJhI6VVSEpX+o0NAqnG3LAnT+6mi3kwH2wXfVn9ObITHwK3qhdGv5Yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <div class="glow glow-a"></div>
+    <div class="glow glow-b"></div>
+    <div class="grid-lines"></div>
+    <div class="app-container">
+      <header class="hero hero-home">
+        <div class="hero-copy">
+          <p class="eyebrow">AI internship assistant</p>
+          <h1>InternMatch</h1>
+          <p class="subtitle">Upload a CV, let the AI Engine interpret the profile, and get ranked internships with fit explanations, missing skills, and learning next steps.</p>
+        </div>
+        <div class="hero-stats">
+          <article class="stat-card">
+            <span class="stat-number">AI</span>
+            <span class="stat-label">Semantic fit review</span>
+          </article>
+          <article class="stat-card">
+            <span class="stat-number">90%</span>
+            <span class="stat-label">score ceiling by design</span>
+          </article>
+          <article class="stat-card">
+            <span class="stat-number">Signals</span>
+            <span class="stat-label">company context and skill gaps</span>
+          </article>
+        </div>
+      </header>
+
+      <main class="home-layout">
+        <section class="banner" id="mode-banner" hidden>
+          Local AI unavailable, showing basic matches.
+        </section>
+
+        <section class="card control-panel">
+          <form id="cv-form">
+            <div class="section-head">
+              <span class="step-tag">Step 1</span>
+              <h2>Load the candidate CV</h2>
+            </div>
+
+            <label class="upload-dropzone" for="cv-file">
+              <input type="file" id="cv-file" name="file" accept=".pdf,.docx" required />
+              <span class="upload-kicker">PDF or DOCX</span>
+              <strong id="file-label">Choose a CV file</strong>
+              <span class="hint">Cloud MVP Prototype. Powered by local Phi-3 to save scale credits.</span>
+            </label>
+
+            <div class="section-head">
+              <span class="step-tag">Step 2</span>
+              <h2>Choose department</h2>
+            </div>
+            <p class="hint" id="department-note">Pick departments to narrow the ranking.</p>
+            <div id="departments-grid" class="department-grid"></div>
+
+            <div class="action-row">
+              <button type="submit" class="primary-btn" id="submit-btn">Find internship matches</button>
+              <p id="status" class="status"></p>
+              <div id="loading-container" class="loading-container" hidden>
+                <div class="loading-bar">
+                  <div class="loading-progress" id="loading-progress"></div>
+                </div>
+                <p class="loading-phase" id="loading-phase">Starting...</p>
+              </div>
+            </div>
+          </form>
+        </section>
+
+        <aside class="side-panel">
+          <section class="card info-card">
+            <p class="mini-label">How It Works</p>
+            <p class="info-copy">The mathematical AI pipeline reviews the parsed CV, scores role fit, highlights missing skills, and suggests what to learn next. Displayed scores still cap at 90%.</p>
+          </section>
+
+          <section class="card info-card secondary-tone">
+            <p class="mini-label">What You Get</p>
+            <p class="info-copy">Each result can include an AI fit explanation, missing skills, suggestions, and free learning resources utilizing our cloud-ready cognitive engine.</p>
+          </section>
+
+          <section class="card" id="skills-preview-card" hidden>
+            <div class="section-head compact">
+              <span class="step-tag">Live</span>
+              <h2>Detected skills</h2>
+            </div>
+            <ul id="skills-list" class="skill-list"></ul>
+          </section>
+
+          <section class="card" id="manual-skills-card" hidden>
+            <div class="section-head compact">
+              <span class="step-tag">Manual</span>
+              <h2>Optional skill hints</h2>
+            </div>
+            <p class="hint">Use manual hints only to help the AI structure understand the CV.</p>
+            <div id="manual-skills-list" class="manual-skills"></div>
+            <button type="button" id="manual-skills-submit" class="secondary-btn">Retry with skill hints</button>
+          </section>
+
+          <section class="card preview-card" id="pdf-preview-card" hidden>
+            <div class="section-head compact">
+              <span class="step-tag">Preview</span>
+              <h2>CV snapshot</h2>
+            </div>
+            <canvas id="pdf-canvas"></canvas>
+          </section>
+
+          <section class="card">
+            <div class="section-head compact">
+              <span class="step-tag">Output</span>
+              <h2>AI result view</h2>
+            </div>
+            <p class="hint">Results page shows the AI source, profile summary, AI explanation, missing skills, and learning actions for each shortlisted internship.</p>
+          </section>
+        </aside>
+      </main>
+    </div>
+  </div>
+
+  <script src="/static/js/main.js"></script>
+</body>
+</html>
