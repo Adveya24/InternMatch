@@ -11,6 +11,6 @@ InternMatch is a high-performance career matching engine where Ollama (phi3) per
 ### Setup Instructions:
 1. **Python 3.11**: Create a virtual environment (`py -3.11 -m venv venv311`).
 2. **Install**: `pip install -r requirements.txt`.
-3. **Ollama**: Install [Ollama](https://ollama.com/) and run `ollama pull phi3`.
-4. **Launch**: Run `python -m backend.app` and navigate to `http://localhost:5000`.
+3. **Ollama**: Install [Ollama](https://ollama.com/) and run `ollama pull phi3` and to start everytime you need to run `ollama serve`
+4. **Launch**: Run `python -m backend.app` or `venv311\Scripts\python.exe -m backend.app` and navigate to `http://localhost:5000`.
 Exact CLI command: python cli\run_matcher.py --cv data\sample_cvs\cv_tech.pdf --departments "Computer Science / AI"
