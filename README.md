@@ -15,9 +15,10 @@ InternMatch is a high-performance career matching engine where Ollama (phi3) per
 4. **Launch**: Run `python -m backend.app` or `venv311\Scripts\python.exe -m backend.app` and navigate to `http://localhost:5000`.
 Exact CLI command: python cli\run_matcher.py --cv data\sample_cvs\cv_tech.pdf --departments "Computer Science / AI"
 
-**Dashboard**:
-<img width="851" height="828" alt="image" src="https://github.com/user-attachments/assets/56620918-50a2-48c2-aaad-e67545c9d03d" />
+<b>Dashboard:</b><br>
+<img src="https://github.com/user-attachments/assets/56620918-50a2-48c2-aaad-e67545c9d03d" width="50%" />
 
-**Results**:
-<img width="1211" height="832" alt="image" src="https://github.com/user-attachments/assets/bc4abdff-2b67-4bb6-b764-200e83ecc18c" />
+<br><br>
 
+<b>Results:</b><br>
+<img src="https://github.com/user-attachments/assets/bc4abdff-2b67-4bb6-b764-200e83ecc18c" width="50%" />
